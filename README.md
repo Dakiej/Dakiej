@@ -1,4 +1,4 @@
-<h2 align="left">👋!Hi, I'm Dani, developer and video editor.Dani, developer and video editor.</h2>
+<h2 align="left">👋!Hi, I'm Dani, developer and video editor.</h2>
 
 ###
 
