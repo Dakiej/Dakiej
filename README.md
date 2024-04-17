@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/nguyenhuy158/nguyenhuy158/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="animación de serpiente de cuadrícula de contribución de github" style="max-width: 100%;">
 
 ###
